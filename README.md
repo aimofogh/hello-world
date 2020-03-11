@@ -1,2 +1,4 @@
 # hello-world
-just
+
+hello bro!
+i'm danni .i like code !
